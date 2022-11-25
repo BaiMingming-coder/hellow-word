@@ -10,3 +10,4 @@ char* StrCpy(char* str){
   str1[length]="\0";
   return str1;
 }
+//函数功能：to copy string
